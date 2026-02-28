@@ -49,6 +49,6 @@ showcase UI/UX design skills. Not a real business.
 ---
 ## 📸 Preview
 
-Untitled.png
+![Coffee Shop Screenshot](./public/Untitled.png)
 
 ---

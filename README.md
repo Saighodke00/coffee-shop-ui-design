@@ -45,6 +45,8 @@ https://www.figma.com/design/pq8zjxNQyVJlzpcy0UHBSE/Untitled?node-id=0-1&t=R7iDB
 
 This is a practice/portfolio project created to 
 showcase UI/UX design skills. Not a real business.
-```
+
+---
+## 📸 Preview
 
 ---
